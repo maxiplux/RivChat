@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">"Aplicacion Riva
+"</string>
+    <string name="action_settings">"Ajustes"</string>
+    <string name="about">"Acerca de"</string>
+    <string name="login_success">"Inicio de sesión exitoso"</string>
+    <string name="login">"ENTRAR"</string>
+    <string name="Username">"Correo
+"</string>
+    <string name="Password">"Contraseña"</string>
+    <string name="forgot_your_password">"¿Olvidó su contraseña?"</string>
+    <string name="go">"IR"</string>
+    <string name="repeat_password">"Repite la contraseña"</string>
+    <string name="next">"NEXT"</string>
+    <string name="register">"REGISTRO"</string>
+
+    <string name="hint_username">"Ingrese un nuevo nombre de usuario"</string>
+    <string name="hint_email_reset">"Introduce tu correo electrónico"</string>
+    <string name="enter_group_name">"Nombre Grupo"</string>
+</resources>
